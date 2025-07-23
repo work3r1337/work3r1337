@@ -2,7 +2,7 @@ Hi there👋 this is work3r1337
 ===========================
 Beginner developer
 ---------------------------
-* I am an undergraduate student at [Lobachevsky University](www.unn.ru)
+* I am an undergraduate student at [Lobachevsky University](http://www.unn.ru/)
 * 🌍  I'm based in Nizhny Novgorod
 * ✉️  You can contact me at [c.michasov2004@yandex.ru](mailto:c.michasov2004@yandex.ru)
 * 🚀  I'm currently working on [personal projects](http://github.com/work3r1337?tab=repositories)
